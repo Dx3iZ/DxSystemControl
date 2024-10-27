@@ -1,0 +1,29 @@
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\bin\Debug\Eternal Eternity.exe.config
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\bin\Debug\Eternal Eternity.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\bin\Debug\Eternal Eternity.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\bin\Debug\Guna.UI2.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\EternalEternity.csproj.AssemblyReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\DxSystemControl.Main.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\EternalEternity.Properties.Resources.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\EternalEternity.csproj.GenerateResource.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\EternalEternity.csproj.CoreCompileInputs.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\EternalE.C6D86DEE.Up2Date
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\Eternal Eternity.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\Eternal Eternity.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\bin\Debug\Siticone.UI.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSystemControl\obj\Debug\EternalEternity.System_Management.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\bin\Debug\Eternal Eternity.exe.config
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\bin\Debug\Eternal Eternity.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\bin\Debug\Eternal Eternity.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\EternalEternity.csproj.AssemblyReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\DxSystemControl.Main.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\EternalEternity.Properties.Resources.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\EternalEternity.System_Management.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\EternalEternity.csproj.GenerateResource.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\EternalEternity.csproj.CoreCompileInputs.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\EternalE.C6D86DEE.Up2Date
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\Eternal Eternity.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\obj\Debug\Eternal Eternity.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\DxeiZ\Projects\DxSystemControl\bin\Debug\System.Management.Automation.dll
